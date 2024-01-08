@@ -3,4 +3,6 @@
 
 <a href="https://codeclimate.com/github/presimos/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/07612a5ad323d9699c71/maintainability" /></a>
 
-https://asciinema.org/a/NSWfyb81lkowP6s2IzFWKoDve
+brain-even: https://asciinema.org/a/NSWfyb81lkowP6s2IzFWKoDve
+
+brain-calc: https://asciinema.org/a/xqpB2fyEsVUfrb2sATO3tK3qs
