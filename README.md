@@ -5,12 +5,12 @@
 
 Игра "Brain-games" предсавляет в себе 5 разных игр: "Проверка на чётность", "Калькулятор", "НОД", "Арифметическая прогрессия" и "Простое ли число?"
 
-brain-even: https://asciinema.org/a/NSWfyb81lkowP6s2IzFWKoDve
+brain-even: https://asciinema.org/a/JVdzY6fOdYgFdmJRoNqreIs0Y
 
 brain-calc: https://asciinema.org/a/xqpB2fyEsVUfrb2sATO3tK3qs
 
 brain-gcd: https://asciinema.org/a/C3qsEbPFqo4yOip46cTaX4dfy
 
-brain-progression: https://asciinema.org/a/HdHWT7I8RJ9RRyYYOGcZyNnGx
+brain-progression: https://asciinema.org/a/u5SqSYY7SRcZ5QCgEzUNkv98N
 
 brain-prime: https://asciinema.org/a/WYGVimOcxgKQCcdnJyfyOaoof

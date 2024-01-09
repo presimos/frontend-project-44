@@ -2,8 +2,7 @@
 
 import { getName, getAnswer } from '../src/cli.js';
 import { getRandomNumber, compareAnswers } from '../src/index.js';
-
-const correctAnswer = (number) => (number % 2 === 0 ? 'yes' : 'no');
+import correctAnswer from '../src/games/even.js';
 
 const name = getName();
 console.log('Answer "yes" if the number is even, otherwise answer "no".');
