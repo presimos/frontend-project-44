@@ -2,7 +2,7 @@
 
 import { getName, getAnswer } from '../src/cli.js';
 import { getRandomNumber, compareAnswers } from '../src/index.js';
-import { getRandomOperation, correctAnswer} from '../src/games/calc.js';
+import { getRandomOperation, correctAnswer } from '../src/games/calc.js';
 
 const name = getName();
 console.log('What is the result of the expression?');
