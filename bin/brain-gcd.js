@@ -2,7 +2,13 @@
 
 import { getName, getAnswer } from '../src/cli.js';
 import { getRandomNumber, compareAnswers } from '../src/index.js';
-import findGCD from '../src/games/gcd.js';
+
+const findGCD = (num1, num2) => {
+  if (num2 === 0) {
+    return num1;
+  }
+  return findGCD(num2, num1 % num2);
+};
 
 const name = getName();
 console.log('Find the greatest common divisor of given numbers.');

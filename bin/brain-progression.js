@@ -2,7 +2,15 @@
 
 import { getName, getAnswer } from '../src/cli.js';
 import { compareAnswers, getRandomNumber } from '../src/index.js';
-import generateProgression from '../src/games/progression.js';
+
+const generateProgression = () => {
+  const progression = [getRandomNumber(0, 50)];
+  const difference = getRandomNumber(5, 10);
+  for (let i = 0; i <= 9; i += 1) {
+    progression.push(progression[i] + difference);
+  }
+  return progression;
+};
 
 const name = getName();
 console.log('What number is missing in the progression?');
